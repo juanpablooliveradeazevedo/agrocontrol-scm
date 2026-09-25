@@ -1,6 +1,8 @@
-# AgroControl 🌱
+### [AgroControl](https://github.com/juanpablooliveradeazevedo/agrocontrole-scm)
 
-Protótipo acadêmico desenvolvido em Python para prática de **Gerenciamento de Configuração de Software (SCM)**, versionamento e utilização do **Git/GitHub** durante a graduação em Análise e Desenvolvimento de Sistemas.
+Protótipo acadêmico em Python desenvolvido para prática de Git, GitHub e Gerenciamento de Configuração de Software durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Projeto utilizado para praticar controle de versões, commits e evolução incremental de software.
 
 ## 📌 Objetivo
 
