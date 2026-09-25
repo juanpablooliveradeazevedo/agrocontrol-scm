@@ -29,3 +29,46 @@ agrocontrole-scm/
 ├── app.py
 ├── nova_funcionalidade.py
 └── README.md
+```
+
+### `app.py`
+
+Arquivo principal do protótipo.
+
+Apresenta informações sobre a aplicação e indica a disponibilidade do módulo de propriedades rurais.
+
+### `nova_funcionalidade.py`
+
+Exemplo de evolução do projeto contendo uma função simples para registrar uma propriedade rural.
+
+## ▶️ Como executar
+
+É necessário ter o Python instalado.
+
+Para executar o arquivo principal:
+
+```bash
+python app.py
+```
+
+Para testar a funcionalidade de registro:
+
+```bash
+python nova_funcionalidade.py
+```
+
+## 🎓 Contexto acadêmico
+
+Projeto desenvolvido durante a graduação em **Análise e Desenvolvimento de Sistemas**, com foco na prática de:
+
+- controle de versões;
+- criação e acompanhamento de commits;
+- evolução incremental de software;
+- utilização de repositórios Git;
+- gerenciamento de configuração de software.
+
+## 📈 Status
+
+🧪 **Protótipo acadêmico**
+
+O projeto possui escopo educacional e foi utilizado como exercício introdutório de versionamento e gerenciamento de configuração de software.
